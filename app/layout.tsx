@@ -14,18 +14,18 @@ const kaisei = localFont({
 
 export const metadata: Metadata = {
   title: {
-    default: 'Lee Robinson',
-    template: '%s | Lee Robinson',
+    default: 'Victorbre',
+    template: '%s | Victorbre',
   },
-  description: 'Developer, writer, and creator.',
+  description: 'Product & Motion Graphic Designer',
   openGraph: {
-    title: 'Lee Robinson',
-    description: 'Developer, writer, and creator.',
-    url: 'https://leerob.io',
-    siteName: 'Lee Robinson',
+    title: 'Victorbre',
+    description: 'Product & Motion Graphic Designer',
+    url: 'https://victorbre.com',
+    siteName: 'Victorbre',
     images: [
       {
-        url: 'https://leerob.io/og.jpg',
+        url: 'https://victorbre/og.jpg',
         width: 1920,
         height: 1080,
       },
@@ -45,15 +45,14 @@ export const metadata: Metadata = {
     },
   },
   twitter: {
-    title: 'Lee Robinson',
+    title: 'Victorbre',
     card: 'summary_large_image',
   },
   icons: {
     shortcut: '/favicon.ico',
   },
   verification: {
-    google: 'eZSdmzAXlLkKhNJzfgwDqWORghxnJ8qR9_CHdAh5-xw',
-    yandex: '14d2e73487fa6c71',
+    google: 'l8lFWGKwo0KtfSi5ZvkjHM2bvhOZ3brHE5orfuPDuxg',
   },
 };
 
