@@ -1,19 +1,18 @@
 import me from '../app/placeholder.jpg';
 
-export const name = 'Victor Svensson';
+export const name = 'Your Name';
 export const avatar = me;
 export const about = () => {
   return (
     <>
-      Hi. I'm Victor a <b>Product & Motion Graphic Designer</b> with a
-      passion for learning.
+      Hey, I'm a developer who loves Next.js. I work at BigCo or CoolStartup as a Software Engineer.
     </>
   );
 };
 export const bio = () => {
   return (
     <>
-      I'm currently at [Milkywire](https://milkywire.com) wearing a bunch
-      of differents hats, product designer being the main one.    </>
+      When I'm not coding, I'm probably playing video games or watching anime. I also love to travel and explore new places.
+    </>
   );
 };
